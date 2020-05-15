@@ -1,0 +1,83 @@
+.first-p {
+  font-size: 18px;
+  font-family: inherit;
+  color: #002a4c;
+  padding-top: 17px;
+  font-weight: 400;
+  text-align: left;
+}
+.cnt-info-1 h1 {
+  color: #002a4c;
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 50px;
+}
+.cnt-info-1 .second-p {
+  color: rgb(99, 128, 148);
+  font-size: 18px;
+  line-height: 31px;
+}
+.cnt-info-2 .third-p {
+  padding-top: 17px;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgb(55, 70, 90);
+}
+/* form {
+  margin-top: 34px;
+} */
+
+form .form-body {
+  padding: 20px;
+}
+
+.form-control {
+  color: #000000 !important;
+  background-color: #edf6fe;
+}
+
+.sub-btn {
+  text-align: center;
+}
+
+.sub-btn .btn {
+  width: 100%;
+  background-color: #002a4c;
+  color: #fafafa;
+  font-size: 20px;
+  font-family: Helvetica;
+  border-color: #002a4c;
+  border-style: Solid;
+  border-width: 1px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.call-link a {
+  font-size: 38px;
+  font-weight: bold;
+  color: #bf2c17;
+  line-height: 61px;
+  text-align: left;
+}
+
+.call-link a:hover {
+  color: #bf2c17;
+  text-decoration: none;
+}
+
+.rating-iframe {
+  border-width: 0px;
+  display: block;
+  margin: 0px auto;
+  overflow: hidden;
+}
+
+.quote {
+  text-align: center;
+  font-size: 20px;
+  color: rgb(33, 37, 41);
+  line-height: 32px;
+  font-weight: bold;
+}

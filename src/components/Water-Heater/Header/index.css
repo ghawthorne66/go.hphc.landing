@@ -1,0 +1,34 @@
+/* Header */
+#head {
+  background: #bf2c17;
+  color: #fff;
+  height: 129px;
+}
+
+#head img {
+  padding-top: 15px;
+  padding-left: 80px;
+}
+
+#head .head-first-para {
+  font-weight: normal;
+  padding-top: 15px;
+  padding-left: 50px;
+  font-size: 22px;
+}
+
+header .head-second-para i {
+  font-size: 1.7em;
+  font-weight: 1000;
+}
+
+header .head-second-para a {
+  font-weight: bold;
+  padding-left: 25px;
+  font-size: 33px;
+  color: #fff;
+}
+
+header .head-second-para a:hover {
+  color: #fff;
+}

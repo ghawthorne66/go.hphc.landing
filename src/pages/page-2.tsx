@@ -15,3 +15,4 @@ const SecondPage = (props: PageProps) => (
 )
 
 export default SecondPage
+

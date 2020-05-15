@@ -1,0 +1,15 @@
+footer {
+  /* margin-top: 30px; */
+  background: #bf2c17;
+}
+
+.footer-logo-1 {
+  width: 32%;
+  margin-left: 1em;
+}
+
+.footer-copyright {
+  color: #ffffff;
+  font-weight: 300;
+  padding-top: 2em;
+}
